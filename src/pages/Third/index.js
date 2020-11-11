@@ -1,6 +1,6 @@
 import React from 'react'
 import style from './third.module.css'
-import img from '../First/img/chistka.jpg'
+import img from './chistka.jpg'
 
 export default function(){
     return(
